@@ -13,3 +13,5 @@ const media = total / (peso1 + peso2)
 
 console.log(media.toFixed(2)) //fixa casas decimais//
 console.log(media.toString(2)) //numero 2, transforma em binario//
+console.log(typeof media)
+console.log(typeof Number)
